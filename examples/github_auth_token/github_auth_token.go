@@ -16,7 +16,7 @@ NOTE: This example may only work on *nix systems due to gopass requirements.
 import (
 	"code.google.com/p/gopass"
 	"fmt"
-	"github.com/jmcvetta/napping"
+	"github.com/jadengore/napping"
 	"github.com/kr/pretty"
 	"log"
 	"net/url"

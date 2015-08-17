@@ -8,7 +8,7 @@ package napping
 import (
 	"encoding/base64"
 	"encoding/json"
-	"github.com/jmcvetta/randutil"
+	"github.com/jadengore/randutil"
 	"io/ioutil"
 	"log"
 	"net/http"

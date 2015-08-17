@@ -11,7 +11,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/jmcvetta/napping"
+	"github.com/jadengore/napping"
 	"log"
 )
 
